@@ -1,0 +1,5 @@
+﻿  file.c
+C:\Users\User\source\repos\lab-04\lab-04\file.c(26,12): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\User\source\repos\lab-04\lab-04\file.c(42,12): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\lab-04\lab-04\file.c(66,8): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  lab-04.vcxproj -> C:\Users\User\source\repos\lab-04\x64\Debug\lab-04.exe
