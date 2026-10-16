@@ -25,10 +25,9 @@ int checkIndicators() {
 	int firstLamp = firstIndicator;
 	int secondLamp = secondIndicator;
 
-	if (firstLamp % 2 != 0 && secondLamp % 2 == 0 || firstLamp % 2 == 0 && secondLamp % 2 != 0)
-		puts("Сирена заработала");
-	else
-		puts("Сирена не сработала");
+	int isTrue = (firstLamp % 2 != 0 && secondLamp % 2 == 0) || (firstLamp % 2 == 0 && secondLamp % 2 != 0);
+
+	printf("Условие выполнилось с результатом: %d", isTrue);
 
 	return 0;
 }
