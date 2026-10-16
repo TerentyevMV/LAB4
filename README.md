@@ -30,7 +30,7 @@ ____
 ### Блок-схема
 ![Блок-схема алгоритма](Скриншот-20261016-193105.jpg)
 
- [Ссылка на блок-схему](https://app.diagrams.net/#G1gbS5uqZz5COACX76xFl9WXr6SDUFxvg3#%7B%22pageId%22%3A%22Rx9zcCg74zxVW4MSbvLp%22%7D)
+ [Ссылка на блок-схему](https://app.diagrams.net/#G1L94OHC70ma7zmBu7-kiWtmhMI9Dw3AZW#%7B%22pageId%22%3A%22PPpXGIrxo9YvdWrg5bHD%22%7D)
 
 
 ## 2. Реализация программы
